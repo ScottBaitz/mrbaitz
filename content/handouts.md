@@ -85,6 +85,7 @@ Here you can find every handout, worksheet, lab, and piece of paper I give to my
 ## Dynamic Earth
 
 1. [Layers of the Earth Diagram](https://drive.google.com/file/d/1F3ky4d-3F8TJrsp-5rIzjVlmWzATojHp/view?usp=sharing)
+2. [Plate Tectonics Webquest](https://docs.google.com/document/d/151vMpubLt533rplOw5oiFKTTFBX1lvyuiCpbZSwczCs/edit?usp=sharing)
 
 ## Atoms, Elements, & Compounds
 
