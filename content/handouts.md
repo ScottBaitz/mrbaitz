@@ -86,6 +86,8 @@ Here you can find every handout, worksheet, lab, and piece of paper I give to my
 
 1. [Layers of the Earth Diagram](https://drive.google.com/file/d/1F3ky4d-3F8TJrsp-5rIzjVlmWzATojHp/view?usp=sharing)
 2. [Plate Tectonics Webquest](https://docs.google.com/document/d/151vMpubLt533rplOw5oiFKTTFBX1lvyuiCpbZSwczCs/edit?usp=sharing)
+3. [Sequence of Events Notes](https://drive.google.com/file/d/18-yopsCNZL-C0uW6e7MCjP066S11Z3Aj/view?usp=sharing)
+4.[Relative Dating Practice](https://drive.google.com/file/d/1yOXiCr2-1e41q3fBAkTz3Ioi5pRJXa9E/view?usp=sharing)
 
 ## Atoms, Elements, & Compounds
 
