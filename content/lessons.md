@@ -58,6 +58,7 @@ Here you will find all of the slideshows which I have presented in class, sorted
 1. [Layers of the Earth](https://docs.google.com/presentation/d/1jlbvhJ-A04pnW_fwwsqzxZpAYQzPA2pMRg5KE5FxZ-o/edit?usp=sharing)
 2. [Plate Tectonics](https://docs.google.com/presentation/d/1YOHkkvARblP6eZldvqs_wUvs6MifcEfHTQu5ykZpxsM/edit?usp=sharing)
 3. [Rock Layers & Correlation](https://docs.google.com/presentation/d/1L668OJWDJ3EDt_lOi4UVurmZGedeE5nCab_sY9_AJA0/edit?usp=sharing)
+4. [Earthquakes & Types of Waves](https://docs.google.com/presentation/d/10dl_8i4WeY9_f3Pqb6hlWnGpp6KmT4xvn5DSMuO1RCc/edit?usp=sharing)
 
 ## Atoms, Elements, & Compounds
 
