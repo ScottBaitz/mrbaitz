@@ -1,7 +1,7 @@
 ---
-title: Handouts
+title: Classwork
 weight: 30
-menuname: Handouts
+menuname: Classwork
 draft: 'False'
 ---
 Here you can find every handout, worksheet, lab, and piece of paper I give to my students throughout the year for you to use if the paper gets lost.
