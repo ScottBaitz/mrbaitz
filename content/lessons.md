@@ -60,7 +60,7 @@ Here you will find all of the slideshows which I have presented in class, sorted
 3. [Rock Layers & Correlation](https://docs.google.com/presentation/d/1L668OJWDJ3EDt_lOi4UVurmZGedeE5nCab_sY9_AJA0/edit?usp=sharing)
 4. [Earthquakes & Types of Waves](https://docs.google.com/presentation/d/10dl_8i4WeY9_f3Pqb6hlWnGpp6KmT4xvn5DSMuO1RCc/edit?usp=sharing)
 5. [Earthquake Distance](https://docs.google.com/presentation/d/1jaSScCRYUJN1ZNXC1tDaxeTtJH92HgPn_txMHs-tgtY/edit?usp=sharing)
-6. [Locating the Epicenter](9https://docs.google.com/presentation/d/1xyMh0mTDRaEK0yKopQdCtDad7r2CJPTQ98VFYL7CCzk/edit?usp=sharing)
+6. [Locating the Epicenter](https://docs.google.com/presentation/d/1xyMh0mTDRaEK0yKopQdCtDad7r2CJPTQ98VFYL7CCzk/edit?usp=sharing)
 
 ## Atoms, Elements, & Compounds
 
