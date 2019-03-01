@@ -10,23 +10,3 @@ disableKinds=["RSS"]
   description = '<!--[-->I am the science teacher for team Phoenix at Sierra Middle School. In 8th grade we focus mostly on Physics, Chemistry, and Earth Science. Here you will find all of my presentations and handouts to use if you need to study, review, or if you missed a day. <a href="https://calendar.google.com/calendar/embed?color=%23668CD9&src=dcsdk12.org_373235343638373731373634313538363033353731303836323832363236@resource.calendar.google.com"><strong>Homework Calendar</strong></a><!--]-->'
   logo = "fa-rocket"
   copyright = "Scott Baitz"
-
-[[params.social]]
-  medium = "twitter"
-  icon = "twitter"
-  link = "#"
-
-[[params.social]]
-  medium = "facebook"
-  icon = "facebook"
-  link = "#"
-
-[[params.social]]
-  medium = "instagram"
-  icon = "instagram"
-  link = "#"
-
-[[params.social]]
-  medium = "github"
-  icon = "github"
-  link = "#"
