@@ -91,6 +91,9 @@ Here you can find every handout, worksheet, lab, and piece of paper I give to my
 4. [Relative Dating Practice](https://drive.google.com/file/d/1yOXiCr2-1e41q3fBAkTz3Ioi5pRJXa9E/view?usp=sharing)
 5. [Bedrock Correlation Lab / Practice](https://drive.google.com/file/d/1dQGlE30AzCJOorC1Vfoditw1i4EtBUBc/view?usp=sharing)
 6. [Earthquake & Volcano Plotting](https://drive.google.com/file/d/1CGkYebostvmjfx-GwiciwgXLSbn1CnFr/view?usp=sharing)
+7. [Epicenter Distance Graph](https://drive.google.com/file/d/1F_z0toRIrIRLPF8LwE3K5gl_HfpN05HF/view?usp=sharing)
+8. [Epicenter Distance Practice](https://drive.google.com/file/d/1tJpXFv-PqmwIylyZpmiHSW5ZSNS79yQH/view?usp=sharing)
+9. [Plotting Epicenters](https://drive.google.com/file/d/1pvmD0HJQzt05piqGrfEGeZ6U_IlgTQFu/view?usp=sharing)
 
 ## Atoms, Elements, & Compounds
 
