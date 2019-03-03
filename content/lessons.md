@@ -64,7 +64,8 @@ Here you will find all of the slideshows which I have presented in class, sorted
 
 ## Atoms, Elements, & Compounds
 
-* **Upcoming**
+1. [Intro to the Atom](https://docs.google.com/presentation/d/1mQVgJ2l30MGLJCz7G_vXnaYAake-UiNfh3Lsqch48ow/edit?usp=sharing)
+2. [Into to the Atom Pt. 2](https://docs.google.com/presentation/d/1YGhqtYjq6gzDp5SYhQ37ABRxXCqMtDkepCeo2rBC2qc/edit?usp=sharing)
 
 ## Mixtures & Physical Properties of Matter
 

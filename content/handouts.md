@@ -97,7 +97,7 @@ Here you can find every handout, worksheet, lab, and piece of paper I give to my
 
 ## Atoms, Elements, & Compounds
 
-* Upcoming
+1. [Intro to the Atom Packet](https://drive.google.com/file/d/1278iEHz4MZ0ZDOvdKJjbocaEpySw71G4/view?usp=sharing)
 
 ## Mixtures & Physical Properties of Matter
 
