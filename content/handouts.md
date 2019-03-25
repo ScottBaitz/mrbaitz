@@ -101,6 +101,11 @@ Here you can find every handout, worksheet, lab, and piece of paper I give to my
 2. [Ions & Isotopes Practice](https://drive.google.com/open?id=14RxGAZA3ov40llnJFelhU7GwpOdlyH25)
 3. [History of the Atom Project](https://docs.google.com/document/d/1iOVYpJrCKMjqqzpaGN_Ibm5T-a6YvGBk2GIbcUY-58Y/edit?usp=sharing)
 4. [Atoms Tic-Tac-Toe](https://docs.google.com/document/d/1016JIP3nvrH6G_Le9xveNsqOPloIm-jSSKZ6uJGumiQ/edit?usp=sharing)
+5. [H. H. Holmes Worksheet](https://docs.google.com/document/d/1sZLtV1bseYh5f8wILQFjrv3mUV_7mr5fjcUP85uDgrI/edit?usp=sharing)
+6. [H. H. Holmes Info Packet](https://docs.google.com/document/d/1_fq7IkGVXSjuEBjPYuSF-g9yuRZP3UTKGiwcpPZRhU8/edit?usp=sharing)
+7. [FBI Crime Lab Worksheet](https://drive.google.com/file/d/1HLVTwXlVPL-w3UyyzeFOiIayTHb-fCHU/view?usp=sharing)
+8. [FBI Crime Lab Video](https://drive.google.com/file/d/1EeK54663TmzfUdfM4tZOv2a6dHL07738/view?usp=sharing)
+9. [CSI: Adventure Webquest](https://docs.google.com/document/d/1wm5ezNR6O7PMjYZ-eUvxaxqqjRyNDetnXofPQJiOz-U/edit?usp=sharing)
 
 ## Mixtures & Physical Properties of Matter
 
