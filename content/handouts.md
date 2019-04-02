@@ -111,3 +111,4 @@ Here you can find every handout, worksheet, lab, and piece of paper I give to my
 5. [CSI: Adventure Webquest](https://docs.google.com/document/d/1wm5ezNR6O7PMjYZ-eUvxaxqqjRyNDetnXofPQJiOz-U/edit?usp=sharing)
 6. [DNA - The Double Helix](https://drive.google.com/open?id=1yNs37sVVqeLVAX7c4wvT_JGCmD9m3KYyvywBu_0FZjU)
 7. [DNA Base Pairing](https://drive.google.com/open?id=18V3VUUAbbHpgIXNE6zLhEujjr4fsPxvT)
+8. [Punnett Squares](https://docs.google.com/document/d/1sUqUdRY8TuxTqi2WoJqHmX1xr1HV5dxNgkc-l5SCtSw/edit?usp=sharing)
