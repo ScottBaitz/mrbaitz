@@ -71,5 +71,3 @@ Here you will find all of the slideshows which I have presented in class, sorted
 
 1. [Forensics & DNA](https://docs.google.com/presentation/d/1D1dQQ4NiF9JNDHlc7byTloP1ruKdmfPXD8ow45l6QEs/edit?usp=sharing)
 2. [Heredity & Forensics](https://docs.google.com/presentation/d/1NRTFispWXWi4wUVa4Jv1YGvtXGg8wBGcNyqJymQ1onQ/edit?usp=sharing)
-
-##
