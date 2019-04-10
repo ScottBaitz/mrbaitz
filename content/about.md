@@ -38,7 +38,7 @@ The focus of our year is to explore new concepts and create new connections. We 
 The final project for our physics unit will be designing, iterating, and testing a soda bottle rocket. Students will design their rockets from start to finish using their knowledge of physics which they have gained throughout the semester. They will be recording their test data, and analyzing their results to determine how effective their rocket was.
 
 **Crime Scene Chemistry:**\
-Our Chemistry unit will be entirely built around the chemistry of a criminal investigation. The 4th quarter will start with a murder, and we will build our knowledge of chemistry through the lens of this criminal investigation. This project will take us through the end of the quart and cover beyond chemistry, and into genetics.
+Our Chemistry unit will be entirely built around the chemistry of a criminal investigation. The 4th quarter will start with a burglary, and we will build our knowledge of chemistry through the lens of this criminal investigation. This project will take us through the end of the quart and cover beyond chemistry, and into genetics.
 
 **Conservation Campaign:**\
 Here in Colorado conservation of water and electricity is a constant concern. Students will be researching where our electricity and water comes from, and different methods to conserve both in their everyday life. Students will then be creating a campaign to potentially post around the school to share their research.
