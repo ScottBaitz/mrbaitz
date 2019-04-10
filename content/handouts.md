@@ -116,6 +116,6 @@ Here you can find every handout, worksheet, lab, and piece of paper I give to my
 
 ## Chemistry & Forensics
 
-1. [Reactions Balancing Act](https://drive.google.com/open?id=1-U7WzxOiiBp-6YSHcAeooH6kY3_DRIRx)
-2. [Balancing Equations Practice](https://drive.google.com/open?id=162U0ZAPQlLQ17TcAGCVbjBRWPdOq2pC6)
-3. [Balancing Equations Challenge](https://drive.google.com/open?id=1C9HQbkRpF7Z0nQ5s9X2CH9D72L0JTPT9)
+1. [Reactions Balancing Act](https://drive.google.com/open?id=1qBhVkHdKY4ZD-T6GTUcmiEsSXLaZSfOh)
+2. [Balancing Equations Practice](https://drive.google.com/open?id=1sddthX1KNbRtsi7yOkUd5VGqi9YT0y6z)
+3. [Balancing Equations Challenge](https://drive.google.com/open?id=1rFDVg8aCURxYHM0L8KQC2WuodS0uGNIa)
