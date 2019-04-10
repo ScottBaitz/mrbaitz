@@ -102,7 +102,7 @@ Here you can find every handout, worksheet, lab, and piece of paper I give to my
 3. [History of the Atom Project](https://docs.google.com/document/d/1iOVYpJrCKMjqqzpaGN_Ibm5T-a6YvGBk2GIbcUY-58Y/edit?usp=sharing)
 4. [Atoms Tic-Tac-Toe](https://docs.google.com/document/d/1016JIP3nvrH6G_Le9xveNsqOPloIm-jSSKZ6uJGumiQ/edit?usp=sharing)
 
-## Forensics
+## Forensics & Genetics
 
 1. [H. H. Holmes Worksheet](https://docs.google.com/document/d/1sZLtV1bseYh5f8wILQFjrv3mUV_7mr5fjcUP85uDgrI/edit?usp=sharing)
 2. [H. H. Holmes Info Packet](https://docs.google.com/document/d/1_fq7IkGVXSjuEBjPYuSF-g9yuRZP3UTKGiwcpPZRhU8/edit?usp=sharing)
@@ -112,3 +112,9 @@ Here you can find every handout, worksheet, lab, and piece of paper I give to my
 6. [DNA - The Double Helix](https://drive.google.com/open?id=1yNs37sVVqeLVAX7c4wvT_JGCmD9m3KYyvywBu_0FZjU)
 7. [DNA Base Pairing](https://drive.google.com/open?id=18V3VUUAbbHpgIXNE6zLhEujjr4fsPxvT)
 8. [Punnett Squares](https://docs.google.com/document/d/1sUqUdRY8TuxTqi2WoJqHmX1xr1HV5dxNgkc-l5SCtSw/edit?usp=sharing)
+9. [Genetics Review One Pager](https://docs.google.com/document/d/1ZBMzJdrauBpa58OF1R9V3aEBfKw6p2lZzuE8FGOPiog/edit?usp=sharing)
+
+## Chemistry & Forensics
+1. [Reactions Balancing Act](https://drive.google.com/open?id=1-U7WzxOiiBp-6YSHcAeooH6kY3_DRIRx)
+2. [Balancing Equations Practice](https://drive.google.com/open?id=162U0ZAPQlLQ17TcAGCVbjBRWPdOq2pC6)
+3. [Balancing Equations Challenge](https://drive.google.com/open?id=1C9HQbkRpF7Z0nQ5s9X2CH9D72L0JTPT9)
