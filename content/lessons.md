@@ -67,7 +67,11 @@ Here you will find all of the slideshows which I have presented in class, sorted
 1. [Intro to the Atom](https://docs.google.com/presentation/d/1mQVgJ2l30MGLJCz7G_vXnaYAake-UiNfh3Lsqch48ow/edit?usp=sharing)
 2. [Into to the Atom Pt. 2](https://docs.google.com/presentation/d/1YGhqtYjq6gzDp5SYhQ37ABRxXCqMtDkepCeo2rBC2qc/edit?usp=sharing)
 
-## Forensics
+## Forensics & Genetics
 
 1. [Forensics & DNA](https://docs.google.com/presentation/d/1D1dQQ4NiF9JNDHlc7byTloP1ruKdmfPXD8ow45l6QEs/edit?usp=sharing)
 2. [Heredity & Forensics](https://docs.google.com/presentation/d/1NRTFispWXWi4wUVa4Jv1YGvtXGg8wBGcNyqJymQ1onQ/edit?usp=sharing)
+
+## Chemistry & Forensics
+
+1. [Balancing Chemical Reactions](https://drive.google.com/open?id=1WYQFCq1kZkA9n8NA12KAht7hxrCxO9vUpNQoN3Mo1gU)
