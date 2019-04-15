@@ -75,3 +75,4 @@ Here you will find all of the slideshows which I have presented in class, sorted
 ## Chemistry & Forensics
 
 1. [Balancing Chemical Reactions](https://drive.google.com/open?id=1WYQFCq1kZkA9n8NA12KAht7hxrCxO9vUpNQoN3Mo1gU)
+2. [Physical & Chemical Properties of Matter](https://docs.google.com/presentation/d/1LHVaINedODBKcdTwKnjKBL-Q4rZ_7brDaZ6ZFRERsf0/edit?usp=sharing)
