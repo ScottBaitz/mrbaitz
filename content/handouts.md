@@ -119,3 +119,7 @@ Here you can find every handout, worksheet, lab, and piece of paper I give to my
 1. [Reactions Balancing Act](https://drive.google.com/open?id=1qBhVkHdKY4ZD-T6GTUcmiEsSXLaZSfOh)
 2. [Balancing Equations Practice](https://drive.google.com/open?id=1sddthX1KNbRtsi7yOkUd5VGqi9YT0y6z)
 3. [Balancing Equations Challenge](https://drive.google.com/open?id=1rFDVg8aCURxYHM0L8KQC2WuodS0uGNIa)
+4. [Balancing Chemical Reactions Webquest](https://docs.google.com/document/d/1boQBQZRdbPp43y9pj4N84T6f3km5h7OMViTcHvs_CrU/edit?usp=sharing)
+5. [Physical & Chemical Properrties & Reactions](https://drive.google.com/file/d/1QjeABS9JyOrB9fjelH-K1b40EvdRU_7k/view?usp=sharing)
+6. [Density Worksheet](https://drive.google.com/file/d/1A8fWtEC2MQOfoytGEJGd9BS1Nd7-Gt2C/view?usp=sharing)
+7. [Physical & Chemical Changes Webquest](https://docs.google.com/document/d/1O1F1oh372ffwtkkxXTLOBF6ocfytY2tXkKNX9Q9-GNs/edit?usp=sharing)
