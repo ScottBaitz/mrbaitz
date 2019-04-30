@@ -77,4 +77,4 @@ Here you will find all of the slideshows which I have presented in class, sorted
 1. [Balancing Chemical Reactions](https://drive.google.com/open?id=1WYQFCq1kZkA9n8NA12KAht7hxrCxO9vUpNQoN3Mo1gU)
 2. [Physical & Chemical Properties of Matter](https://docs.google.com/presentation/d/1LHVaINedODBKcdTwKnjKBL-Q4rZ_7brDaZ6ZFRERsf0/edit?usp=sharing)
 3. [Density](https://drive.google.com/open?id=1w-j9DlWDk93tMVl7U2UfJtX_7BG6et6PqiUGAjwsdNA)
-4. [Mixtures & Solutions](https://docs.google.com/presentation/d/1XS9PbL5SdNwKTTBNSQBJPWjWHDyP5xzrSe_nemPgcxQ/edit?usp=sharing)
+4. [Types of Chemical Reactions](https://docs.google.com/presentation/d/1tCKOh2ie8oJqz_KxHVMlbyWX06v-GZeZ5gFny1-ESkc/edit?usp=sharing)
