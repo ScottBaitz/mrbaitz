@@ -125,3 +125,4 @@ Here you can find every handout, worksheet, lab, and piece of paper I give to my
 7. [Mixture Sepparation Challenge Lab](https://docs.google.com/document/d/1b_u0xn9125DBi4rQYeZ4T6kM9fvJZ-Yyv9q3GptVFEE/edit?usp=sharing)
 8. [Design a Firework](https://docs.google.com/document/d/1zzRjwQuBbd_vd2tq-td_Ht8aH6h9j9_yeLDF_05FY-4/edit?usp=sharing)
 9. [Types of Chemical Reactions](https://docs.google.com/document/d/1J8EGS_IAqVLjkLIlB2kZD96vmyH1KdFtAcscjuWDGXE/edit?usp=sharing)
+10. [Conservation of Mass Lab](https://docs.google.com/document/d/1BdpU-BLL8-nhl2sDdeWxKvEcjUqZK4AHTOMOfZ_hXTQ/edit?usp=sharing)
