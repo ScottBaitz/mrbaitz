@@ -1,6 +1,4 @@
 ---
-title: Lessons
-weight: 20
 draft: 'False'
 ---
 Here you will find all of the slideshows which I have presented in class, sorted by unit.
