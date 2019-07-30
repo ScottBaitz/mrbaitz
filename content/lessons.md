@@ -11,7 +11,7 @@ Here you will find all of the slideshows which I have presented in class, sorted
 1. [Classroom Expectations](https://docs.google.com/presentation/d/18GsC5byiTEhMfpimXlC9V7Zv4t94oa-1Ud580QfggoQ/edit?usp=sharing)
 2. 
 
-## Energy, The Envrionment, and Ecosystems
+## Energy, The Environment, and Ecosystems
 
 1. 
 
