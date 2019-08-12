@@ -9,7 +9,11 @@ Here you will find all of the slideshows which I have presented in class, sorted
 ## Science Standards and Measurements
 
 1. [Classroom Expectations](https://docs.google.com/presentation/d/18GsC5byiTEhMfpimXlC9V7Zv4t94oa-1Ud580QfggoQ/edit?usp=sharing)
-2. 
+2. [Scientific Inquiry (8/8)](https://drive.google.com/open?id=1_xwnyJaBOXkNJ-nOdGuHSVdlp1RwrjRCPSSVtAIBEWU)
+3. [Lab Safety (8/9)](https://drive.google.com/open?id=18cVqC57dCp3Gt3K_LcAf-6oA4qaul4thRU5dOwWyEOI)
+4. [Math, Science, & Scientific Notation](https://drive.google.com/open?id=1WrrFjyaVJb9VM8UuNHpNXLIrvA1qMqGflXbF6H49PsU) (8/12)
+5. [Science Measurement Notes](https://docs.google.com/document/d/1kJ5fIUf2vRDPNAnDPZg0HyVSY24ZwgJSypp_WuEcyqI/edit?usp=sharing)
+6. [Metric Olympics (8/14 & 8/15)](https://drive.google.com/open?id=1pF0c38wiIy0d1fRKdEkMqj0s0OqdvwNQ0ROMnDRaqEE)
 
 ## Energy, The Environment, and Ecosystems
 
