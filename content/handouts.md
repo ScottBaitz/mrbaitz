@@ -18,6 +18,14 @@ Here you can find every handout, worksheet, lab, and piece of paper I give to my
 
 1. [Syllabus](https://docs.google.com/document/d/1zBOaRIy07eLJc-7O9cBldMWj252kdwJO1MRHfRgz6PQ/edit?usp=sharing)
 2. [Safety Protocols](https://docs.google.com/document/d/1HscZB2-BPXQmXD82-tgUoJx-YW8sEW83Wa_iCHQqG1U/edit?usp=sharing)
+3. [Lab Safety Packet (8/9)](https://drive.google.com/open?id=1UlTB9vH4o0lBAFSMeXYsZC4I1_oGGOQz)
+4. Science & Math Packet (8/12)
+   1. [Rounding Decimals](https://drive.google.com/open?id=1CUfaNoTNffiBEpVTpOBR8ljprIvviqgU)
+   2. [Rate of Change](https://drive.google.com/open?id=16NRSIkpUTSRSdp1ikqY206zG4MxahV8C)
+   3. [Scientific Notation](https://drive.google.com/open?id=15y2LyriAyd3wvAa2MD9PuSXoSu0oZxYY)
+5. [Science Measurements Notes (8/13)](https://drive.google.com/open?id=1kJ5fIUf2vRDPNAnDPZg0HyVSY24ZwgJSypp_WuEcyqI)
+6. [Metric Olympics (8/14 & 8/15)](https://drive.google.com/open?id=1oHDkLGQ2g_LFBEZfW6ZevFzigrylqB3jZI3c0eUKQR8)
+7. [Graphing Stations](https://drive.google.com/open?id=1S_v07WyS_hpP3Qtiwf4KfFFn19InZ3sJ)
 
 ## Energy, The Envrionment, and Ecosystems
 
