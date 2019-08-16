@@ -25,7 +25,7 @@ Here you can find every handout, worksheet, lab, and piece of paper I give to my
    3. [Scientific Notation](https://drive.google.com/open?id=15y2LyriAyd3wvAa2MD9PuSXoSu0oZxYY)
 5. [Science Measurements Notes (8-13)](https://drive.google.com/open?id=1kJ5fIUf2vRDPNAnDPZg0HyVSY24ZwgJSypp_WuEcyqI)
 6. [Metric Olympics (8-14 & 8-15)](https://drive.google.com/open?id=1oHDkLGQ2g_LFBEZfW6ZevFzigrylqB3jZI3c0eUKQR8)
-7. [Graphing Stations](https://drive.google.com/open?id=1S_v07WyS_hpP3Qtiwf4KfFFn19InZ3sJ)
+7. [Dihydrogen Monoxide](https://docs.google.com/document/d/1iBQr1YLyFdr8ZPr9Y4px8Cz7apj5EccQW0vKHKrhmZw/edit?usp=sharing)  (8-16)
 
 ## Energy, The Envrionment, and Ecosystems
 
