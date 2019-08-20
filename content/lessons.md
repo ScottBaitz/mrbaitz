@@ -18,7 +18,8 @@ Here you will find all of the slideshows which I have presented in class, sorted
 
 ## Energy, The Environment, and Ecosystems
 
-1. 
+1. [Intro to Kinetic & Potential Energy : Card Sort](https://docs.google.com/presentation/d/14AZ3EN-G7wHOaS_bkth9MrJoPNY_R9Esrcx7FitF7VA/edit?usp=sharing) (8-20)
+2. [Testable Questions: Energy of Toys Intro](https://docs.google.com/presentation/d/1OqFQ04EkFm3CN4LYk9Yov58B1oDIYaXmKKGUJOqTwA4/edit?usp=sharing) (8-23)
 
 ## Forces and Motion
 
