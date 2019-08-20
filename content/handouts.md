@@ -29,7 +29,10 @@ Here you can find every handout, worksheet, lab, and piece of paper I give to my
 
 ## Energy, The Envrionment, and Ecosystems
 
-1. 
+1. [Card Sort - Cards](https://drive.google.com/open?id=0B-4RjJKgPQJjRDBON1ZzclVPQTA) (8-20)
+2. [Card Sort instructions](https://docs.google.com/document/d/132c9pivzgxu1VzPiWyuZGJex9Vqgmf6OS0tAT8jRJIQ/edit) (8-20)
+3. [Kinetic & Potential Energy Webquest](https://docs.google.com/document/d/1DLHfwQDQ-CY6QDw3Qke3bEHOo5vnKxDYaFFfwbeoJ_4/edit?usp=sharing) (8-21 & 8-22)
+4. [Energy of Toys Lab](https://docs.google.com/document/d/1Rti5g8UaW8bbWt3aNsiIcpn1LGpbGzLZ5EP8I02NIBc/edit?usp=sharing) (8-23)
 
 ## Forces and Motion
 
