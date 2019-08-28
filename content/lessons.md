@@ -21,6 +21,7 @@ Here you will find all of the slideshows which I have presented in class, sorted
 1. [Intro to Kinetic & Potential Energy : Card Sort](https://docs.google.com/presentation/d/14AZ3EN-G7wHOaS_bkth9MrJoPNY_R9Esrcx7FitF7VA/edit?usp=sharing) (8-20)
 2. [Work & Energy](https://docs.google.com/presentation/d/14r_uLqJMVohS5lprcS5E_8kI7HvcvKH-OoQbx7cFSik/edit?usp=sharing) (8-23)
 3. [Testable Questions: Energy of Toys Intro](https://docs.google.com/presentation/d/1OqFQ04EkFm3CN4LYk9Yov58B1oDIYaXmKKGUJOqTwA4/edit?usp=sharing) (8-26)
+4. [Writing a RECALL Conclusion](https://docs.google.com/presentation/d/1CuNxmHzW5b2FHZhyhhGzE2TLVY-x-lQWQ5eGfiHd054/edit?usp=sharing) (8-29)
 
 ## Forces and Motion
 
