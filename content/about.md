@@ -4,7 +4,7 @@ weight: 10
 menuname: About
 draft: false
 ---
-In this class we focus largely on Physical Science, but we also explore Earth Science and Life Science. The best way to learn science is by actually actually doing science, and because of this we will be performing a lot of experiments in our class, as well as participating in many projects in order to get hands on with the learning.
+In this class, our focus is physical science, but we also explore earth and life sciences. The best way to learn science is through experience, so we will complete a number of hands-on projects and experiments this year.
 
 <center>[8th Grade Science Standards](https://drive.google.com/file/d/1IuHDj_0yXwjqNSJTSwHHf45r2zOp9IE5/view?usp=sharing) - [RECALL Conclusion Poster](https://drive.google.com/file/d/1qqS2wBGQzKgmOZ7zaN6XYYsyUKkxMOT7/view?usp=sharing)</center>
 
@@ -13,41 +13,35 @@ In this class we focus largely on Physical Science, but we also explore Earth Sc
 ## Class Content
 
 **Physics:**\
-In the Physics unit we will be studying and exploring the forces and laws which govern the world we live in. We will be doing this through hands on experiences which help build a lasting understanding
+Apple, meet gravity. In this unit, we will study the forces and laws which govern the world we live in. We will do this through labs and simulations to build a deeper understanding of these concepts.
 
 **Chemistry:**\
-In the Chemistry unit we will be looking at the building blocks of all matter, and how they react with one another to create the world around us. We will also explore how these reactions can be observed with the human eye.
+We will take a very close look at the building blocks of all matter and how they react with one another to create the world around us. We will also explore how these reactions can be observed with the human eye - no microscope needed!
 
 **Earth Science:**\
-In the Earth Sciences unit we will be looking at the geologic history of the earth using fossils, tectonic movement, and volcanic / earthquake activity. We will also take a short trip to explore our solar system. 
+Have you ever wondered where those glorious Rocky Mountains came from? We’re going to find out through an exploration of the geologic history of the earth. We’ll use fossils, tectonic movements, volcanos, and earthquakes as our key to understanding the earth on a geologic scale. We’ll extend our learning even further (literally) to better understand our place in the solar system.
 
 **Life Science:**\
-During the life science unit, students will be exploring how humans and the environment interact with one another and rely on the other. We will be exploring systematic relationships.
-
-**Critical Thinking:**\
-Students will be working on various labs and activity which will help the students work on creating connections between content, and to think about the implications on the content in their daily lives.
-
-**New Concepts:**\
-The focus of our year is to explore new concepts and create new connections. We will be exploring new themes and concepts in science and how they can be applied to our daily lives.
+Do we really matter? According to life science, yes. In this unit, we’ll discover how humans interact with the environment. Life is about give and take, so we’ll look at systematic relationships and how organisms rely on each other to survive.
 
 - - -
 
 ## Class Projects
 
 **Soda Bottle Rocket:**\
-The final project for our physics unit will be designing, iterating, and testing a soda bottle rocket. Students will design their rockets from start to finish using their knowledge of physics which they have gained throughout the semester. They will be recording their test data, and analyzing their results to determine how effective their rocket was.
+Houston, we have lift off! For this project, you’ll join the space race by designing, iterating, and testing a soda bottle rocket. You’ll need to record your test data and analyze your results to ensure a successful launch.
 
 **Crime Scene Chemistry:**\
-Our Chemistry unit will be entirely built around the chemistry of a criminal investigation. The 4th quarter will start with a burglary, and we will build our knowledge of chemistry through the lens of this criminal investigation. This project will take us through the end of the quart and cover beyond chemistry, and into genetics.
+There’s been a horrible burglary and it’s your job to ID the perp! This chemistry unit will revolve around the chemistry of a criminal investigation. We’ll spend most of the fourth quarter solving this crime by digging deep into our understanding of chemistry and genetics.
 
 **Conservation Campaign:**\
-Here in Colorado conservation of water and electricity is a constant concern. Students will be researching where our electricity and water comes from, and different methods to conserve both in their everyday life. Students will then be creating a campaign to potentially post around the school to share their research.
+Here in Colorado conservation of water and electricity is a constant concern. Do you even know where your water and electricity come from? Through research, you’ll find the answers to these questions and identify different methods to conserve both in your everyday life. As a capstone to the unit, you will create a conservation campaign to spread awareness about the ways we can all conserve water and energy.
 
 **Zombie Catapult:**\
-Near Halloween students will be working on forces, motion, and levers. What better way to combine students knowledge of physics and levers than to create a trebuchet to try stop the zombie horde.
+What better way to combine students' knowledge of forces, motion, and levers than to create a trebuchet to try to stop the approaching zombie horde? Not for the faint of heart, this project will naturally take place around Halloween.
 
 **Hands on Labs:**\
-I believe that the best way to learn science is to do science. In this class students will be completing hands on labs which help reinforce the concepts they will be learning in class, and seeing how these concepts play out in practice.
+The best way to learn science is to do science. As such, you’ll spend a lot of time in this class completing labs to experience the concepts we learn about first-hand. Safety goggles required!
 
 **Digital Simulations:**\
-Digital simulations allow us to explore concepts and scientific theories which are too immense to explore in the classroom. By using simulations, students can have experiences with concepts that otherwise would be entirely theoretical.
+Ready to take the safety goggles off? That’s fine. We will also have the opportunity to bring concepts and theories to life with digital simulations.
