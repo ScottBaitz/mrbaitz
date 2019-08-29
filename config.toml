@@ -7,6 +7,6 @@ enableRobotsTXT = true
 disableKinds=["RSS"]
 
 [params]
-  description = '<!--[--><h2>Team Torreys Peak<br>Sierra Middle School<h1><br>IN 8TH GRADE WE FOCUS MOSTLY ON PHYSICS, CHEMISTRY, AND EARTH SCIENCE. HERE YOU WILL FIND ALL OF MY PRESENTATIONS AND HANDOUTS FROM CLASS. THIS IS THE FIRST PLACE YOU SHOULD LOOK IF YOU MISS A DAY OF CLASS OR MISPLACE AN ASSIGNMENT.<a href="https://calendar.google.com/calendar/embed?color=%23668CD9&src=dcsdk12.org_373235343638373731373634313538363033353731303836323832363236@resource.calendar.google.com"><strong>Homework Calendar</strong></a><!--]-->'
+  description = '<!--[--><h2>Team Torreys Peak<br>Sierra Middle School<h4><br>IN 8TH GRADE WE FOCUS MOSTLY ON PHYSICS, CHEMISTRY, AND EARTH SCIENCE. HERE YOU WILL FIND ALL OF MY PRESENTATIONS AND HANDOUTS FROM CLASS. THIS IS THE FIRST PLACE YOU SHOULD LOOK IF YOU MISS A DAY OF CLASS OR MISPLACE AN ASSIGNMENT.<a href="https://calendar.google.com/calendar/embed?color=%23668CD9&src=dcsdk12.org_373235343638373731373634313538363033353731303836323832363236@resource.calendar.google.com"><strong>Homework Calendar</strong></a><!--]-->'
   logo = "fa-rocket"
   copyright = "Scott Baitz"
