@@ -24,6 +24,7 @@ Here you will find all of the slideshows which I have presented in class, sorted
 4. [Writing a RECALL Conclusion](https://docs.google.com/presentation/d/1CuNxmHzW5b2FHZhyhhGzE2TLVY-x-lQWQ5eGfiHd054/edit?usp=sharing) (8-30)
 5. [Annotation & Energy](https://docs.google.com/presentation/d/1WAmIfWV1tUlhNlfqzleRofxX2-4sAogIxdhEheKBQmY/edit?usp=sharing) (9-3)
 6. [Transformation of Energy](https://docs.google.com/presentation/d/1o6u8M5IlrjV0Z6xbxalw8OP_FD_G0DoGAwC_74a5kMM/edit?usp=sharing) (9-4 & 9-5)
+7. [Where Does our Energy Come From Project?](https://docs.google.com/presentation/d/1EfjmB9KvzZ3Q3LupXQOj1TEvNnjCJHi1AG-qQrp5e_k/edit?usp=sharing) (9-9)
 
 ## Forces and Motion
 
