@@ -41,6 +41,9 @@ Here you can find every handout, worksheet, lab, and piece of paper I give to my
    5. [RECALL Peer Editing](https://docs.google.com/document/d/1Mx7HwqqX57WwJyfDLHVnioSL4YEfFrOjEc6WJ0W40jw/edit?usp=sharing)
 6. [Energy Transformation Stations](https://docs.google.com/document/d/1uLEt_iv4VXG8FN4tFGiCEoLNBlhVVqo0W4a7GC1b1ek/edit?usp=sharing) (9-4 & 9-5)
 7. [Energy Transformation Comic](https://docs.google.com/document/d/10w6p7JV8GT2b_B4bfUjao2-JDp1pvgQsGfkCDE6CoQg/edit?usp=sharing) (9-4 & 9-5)
+8. [Where Does Energy Come From Project](https://docs.google.com/presentation/d/1EfjmB9KvzZ3Q3LupXQOj1TEvNnjCJHi1AG-qQrp5e_k/edit?usp=sharing)
+9. [Conduction, Convection, and Radiation Discovery Education](google.discoveryeducation.com) (9-18 & 9-19)
+10. [Weather - NewsELA Reading](newsela.com) (9-23)
 
 ## Forces and Motion
 
