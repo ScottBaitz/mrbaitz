@@ -25,6 +25,8 @@ Here you will find all of the slideshows which I have presented in class, sorted
 5. [Annotation & Energy](https://docs.google.com/presentation/d/1WAmIfWV1tUlhNlfqzleRofxX2-4sAogIxdhEheKBQmY/edit?usp=sharing) (9-3)
 6. [Transformation of Energy](https://docs.google.com/presentation/d/1o6u8M5IlrjV0Z6xbxalw8OP_FD_G0DoGAwC_74a5kMM/edit?usp=sharing) (9-4 & 9-5)
 7. [Where Does our Energy Come From Project?](https://docs.google.com/presentation/d/1EfjmB9KvzZ3Q3LupXQOj1TEvNnjCJHi1AG-qQrp5e_k/edit?usp=sharing) (9-9)
+8. [Conduction, Convection, and Radiation](https://docs.google.com/presentation/d/1hwrtz3wsbFAUNAvpzY_oB_6qaFgItLukOiywwACSRto/edit?usp=sharing) (9-17)
+9. [Conduction, Convection, and Weather](https://docs.google.com/presentation/d/1O8b9VJ9cL4YVnV9VzeYe2od4319qVpdnJNTWPQUoo60/edit?usp=sharing) (9-24)
 
 ## Forces and Motion
 
