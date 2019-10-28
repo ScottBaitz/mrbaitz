@@ -47,11 +47,7 @@ Here you can find every handout, worksheet, lab, and piece of paper I give to my
 
 ## Forces and Motion
 
-1. [Newton's First Law & Net Force](https://docs.google.com/presentation/d/1CTSA6HYOhD-bnTEkoactiyzKE0OYak3fW1P6HMfadaY/edit?usp=sharing)(10-28)
-2. [Free Body Diagrams](https://docs.google.com/presentation/d/1L4qPBGGvhcywSavbBV810R8iaLTo9PvuElfs954iaSw/edit?usp=sharing) (10-29)
-3. [Speed & Velocity](https://docs.google.com/presentation/d/1RHzbHwSeJ4D-4e8G8U-sxWizxdUYIKe8KIE4RoKQWtI/edit?usp=sharing) (10-30 & 10-31)
-4. [Newton's Second Law](https://docs.google.com/presentation/d/1lPXCvXUP9Ocgog1exm7jXH7HJBElFznYZpj5hayBP6M/edit?usp=sharing) (11-4)
-5. [Newton's Third Law](https://docs.google.com/presentation/d/1MBRhiWDgePydP4GqIdR8QNEk2GOXood7XGe-cxbzyqY/edit?usp=sharing) (11-12)
+1. 
 
 ## Space
 
