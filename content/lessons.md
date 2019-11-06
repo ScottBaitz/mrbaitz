@@ -36,7 +36,7 @@ Here you will find all of the slideshows which I have presented in class, sorted
 2. [Free Body Diagrams](https://docs.google.com/presentation/d/1L4qPBGGvhcywSavbBV810R8iaLTo9PvuElfs954iaSw/edit?usp=sharing) (10-29)
 3. [Speed & Velocity](https://docs.google.com/presentation/d/1RHzbHwSeJ4D-4e8G8U-sxWizxdUYIKe8KIE4RoKQWtI/edit?usp=sharing) (10-30 & 10-31)
 4. [Newton's Second Law](https://docs.google.com/presentation/d/1lPXCvXUP9Ocgog1exm7jXH7HJBElFznYZpj5hayBP6M/edit?usp=sharing) (11-4)
-5. [Newton's Third Law](https://docs.google.com/presentation/d/1MBRhiWDgePydP4GqIdR8QNEk2GOXood7XGe-cxbzyqY/edit?usp=sharing) (11-12)
+5. [Newton's Third Law](https://docs.google.com/presentation/d/1MBRhiWDgePydP4GqIdR8QNEk2GOXood7XGe-cxbzyqY/edit?usp=sharing) (11-5)
 
 ## Space
 
