@@ -1,7 +1,7 @@
 ---
-title: Lessons
+title: Notes
 weight: "20"
-menuname: Lessons
+menuname: Notes
 
 ---
 Here you will find all of the slideshows which I have presented in class, sorted by unit.
