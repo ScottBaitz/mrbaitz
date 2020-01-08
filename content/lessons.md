@@ -48,6 +48,8 @@ Here you will find all of the slideshows which I have presented in class, sorted
 ## Waves
 
 1. [Waves Basics](https://docs.google.com/presentation/d/10kCusJn_5GZ7H15kQ_d7DviOI0-d3QtxbSzpx1g2New/edit?usp=sharing) (1-7)
+2. [Sound Waves and Hearing ](https://docs.google.com/presentation/d/1a-SxcHsBDX6jke1ltYVEkC1vlojSkh19hpKv4JArohw/edit?usp=sharing)(1-13)
+3. [Visible Light](https://docs.google.com/presentation/d/1PU6zIbIS7BAWoaCLdZ_I5JRLiHcLXckVV9Cf3iGajbE/edit?usp=sharing) (1-27)
 
 ## Dynamic Earth
 
