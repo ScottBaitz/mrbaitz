@@ -27,7 +27,7 @@ Here you can find every handout, worksheet, lab, and piece of paper I give to my
 6. [Metric Olympics (8-14 & 8-15)](https://drive.google.com/open?id=1oHDkLGQ2g_LFBEZfW6ZevFzigrylqB3jZI3c0eUKQR8)
 7. [Dihydrogen Monoxide](https://docs.google.com/document/d/1iBQr1YLyFdr8ZPr9Y4px8Cz7apj5EccQW0vKHKrhmZw/edit?usp=sharing)  (8-16)
 
-## Energy, The Envrionment, and Ecosystems
+## Energy, The Environment, and Ecosystems
 
  1. [Card Sort - Cards](https://drive.google.com/open?id=0B-4RjJKgPQJjRDBON1ZzclVPQTA) (8-20)
  2. [Card Sort instructions](https://docs.google.com/document/d/132c9pivzgxu1VzPiWyuZGJex9Vqgmf6OS0tAT8jRJIQ/edit) (8-20)
