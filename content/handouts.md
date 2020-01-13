@@ -66,11 +66,13 @@ Here you can find every handout, worksheet, lab, and piece of paper I give to my
 
 ## Waves
 
-1. [Wave Stations Lab ](https://docs.google.com/document/d/1IExU9K_WcW72HB56Mi9l11ymsvUn-8d_L7_vFvXrqW0/edit?usp=sharing)(1-8 through 1-10)
+1. [Wave Notes ](https://drive.google.com/open?id=1IOWFSXQ1KAmO3X_X_DNm7CFNcvlE5TDsvLnKC2Ht47Y)(1-7)
+2. [Wave Stations Lab ](https://docs.google.com/document/d/1IExU9K_WcW72HB56Mi9l11ymsvUn-8d_L7_vFvXrqW0/edit?usp=sharing)(1-8 through 1-10)
    1. [Anatomy of Waves Worksheet](https://drive.google.com/open?id=1u_AZb_lobJpg91kmTtYwMoTsAtq6LgN6)
-2. [Sound Waves Webquest](https://docs.google.com/document/d/10ChD7oa1SmbttAfrhdUgF3IZQi7VtBoOpvofQp5Ppuc/edit?usp=sharing) (1-15 & 1-16)
-3. [EM Spectrum Jigsaw](https://drive.google.com/open?id=1KuSi9Lf6UIZXvVQs1NEF-_VNUtqFPfYOlK_951uJsPg) (1-21 through 1-24)
-4. [UV Sun Protection Lab](https://drive.google.com/open?id=1679myI_EhPYG1cEStj2pLlbhBN-N8Wkk5J3Ao3LHi5U) (1-28 through 1-31)
+   2. [Wave Station Lab Packet](https://drive.google.com/open?id=1Q4ypwrOdtVoSPAk1piA2-CFVuuozFqTIruldCdZiqOY)
+3. [Sound Waves Webquest](https://docs.google.com/document/d/10ChD7oa1SmbttAfrhdUgF3IZQi7VtBoOpvofQp5Ppuc/edit?usp=sharing) (1-15 & 1-16)
+4. [EM Spectrum Jigsaw](https://drive.google.com/open?id=1KuSi9Lf6UIZXvVQs1NEF-_VNUtqFPfYOlK_951uJsPg) (1-21 through 1-24)
+5. [UV Sun Protection Lab](https://drive.google.com/open?id=1679myI_EhPYG1cEStj2pLlbhBN-N8Wkk5J3Ao3LHi5U) (1-28 through 1-31)
    1. [UV Lab Info]()
 
 ## Dynamic Earth
