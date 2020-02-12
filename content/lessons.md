@@ -61,7 +61,8 @@ Here you will find all of the slideshows which I have presented in class, sorted
 
 ## Forensics & Genetics
 
-1. 
+1. [Forensics & DNA](https://drive.google.com/open?id=1D1dQQ4NiF9JNDHlc7byTloP1ruKdmfPXD8ow45l6QEs)(2-10)
+2. [Heredity & Forensics](https://drive.google.com/open?id=1NRTFispWXWi4wUVa4Jv1YGvtXGg8wBGcNyqJymQ1onQ)(2-12 & 2-13)
 
 ## Chemistry & Forensics
 
