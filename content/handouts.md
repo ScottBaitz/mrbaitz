@@ -75,18 +75,19 @@ Here you can find every handout, worksheet, lab, and piece of paper I give to my
 5. [UV Sun Protection Lab](https://drive.google.com/open?id=1679myI_EhPYG1cEStj2pLlbhBN-N8Wkk5J3Ao3LHi5U) (1-28 through 1-31)
    1. [UV Lab Info]()
 
+## Forensics & Genetics
+
+1. [DNA Basics](https://docs.google.com/document/d/1yNs37sVVqeLVAX7c4wvT_JGCmD9m3KYyvywBu_0FZjU/edit?usp=sharing) (2-10)
+2. [Punnet Squares](https://drive.google.com/file/d/1qVnX3HgT0EKmAzY-_4cG5rXclVxhDMZM/view?usp=sharing)(2-12 & 2-13)
+
+## Chemistry & Forensics
+
+1. 
+
 ## Dynamic Earth
 
 1. 
 
 ## Atoms, Elements, & Compounds
-
-1. 
-
-## Forensics & Genetics
-
-1. 
-
-## Chemistry & Forensics
 
 1. 
