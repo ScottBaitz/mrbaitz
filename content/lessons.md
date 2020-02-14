@@ -51,19 +51,19 @@ Here you will find all of the slideshows which I have presented in class, sorted
 2. [Sound Waves and Hearing ](https://docs.google.com/presentation/d/1a-SxcHsBDX6jke1ltYVEkC1vlojSkh19hpKv4JArohw/edit?usp=sharing)(1-13)
 3. [Visible Light](https://docs.google.com/presentation/d/1PU6zIbIS7BAWoaCLdZ_I5JRLiHcLXckVV9Cf3iGajbE/edit?usp=sharing) (1-27)
 
-## Dynamic Earth
-
-1. 
-
-## Atoms, Elements, & Compounds
-
-1. 
-
 ## Forensics & Genetics
 
 1. [Forensics & DNA](https://drive.google.com/open?id=1D1dQQ4NiF9JNDHlc7byTloP1ruKdmfPXD8ow45l6QEs)(2-10)
 2. [Heredity & Forensics](https://drive.google.com/open?id=1NRTFispWXWi4wUVa4Jv1YGvtXGg8wBGcNyqJymQ1onQ)(2-12 & 2-13)
 
 ## Chemistry & Forensics
+
+1. 
+
+## Dynamic Earth
+
+1. 
+
+## Atoms, Elements, & Compounds
 
 1. 
