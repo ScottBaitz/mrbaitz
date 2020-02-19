@@ -58,7 +58,10 @@ Here you will find all of the slideshows which I have presented in class, sorted
 
 ## Chemistry & Forensics
 
-1. 
+1. [Intro to Atoms](https://docs.google.com/presentation/d/1mQVgJ2l30MGLJCz7G_vXnaYAake-UiNfh3Lsqch48ow/edit?usp=sharing) (2/18)
+2. [Intro to Atoms pt 2](https://docs.google.com/presentation/d/1YGhqtYjq6gzDp5SYhQ37ABRxXCqMtDkepCeo2rBC2qc/edit?usp=sharing) (2/19 & 2/20)
+3. [States of Matter](https://docs.google.com/presentation/d/1stq_NwwYoaEDwdLfV1DZmtWLR_mEjKgG6lqyYbKQeME/edit?usp=sharing) (2/19 & 2/20)
+4. [Physical and Chemical Properties](https://docs.google.com/presentation/d/1LHVaINedODBKcdTwKnjKBL-Q4rZ_7brDaZ6ZFRERsf0/edit?usp=sharing) (2/21)
 
 ## Dynamic Earth
 
