@@ -82,7 +82,9 @@ Here you can find every handout, worksheet, lab, and piece of paper I give to my
 
 ## Chemistry & Forensics
 
-1. 
+1. [Periodic Table](https://sciencenotes.org/wp-content/uploads/2019/01/PeriodicTableoftheElements.pdf)
+2. [Intro to Atoms Packet](https://drive.google.com/open?id=1278iEHz4MZ0ZDOvdKJjbocaEpySw71G4) (2-18 - 2-20)
+3. [Ion Isotop Practice](https://drive.google.com/open?id=14RxGAZA3ov40llnJFelhU7GwpOdlyH25) (2-19 & 2-20)
 
 ## Dynamic Earth
 
