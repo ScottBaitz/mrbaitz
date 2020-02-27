@@ -85,6 +85,8 @@ Here you can find every handout, worksheet, lab, and piece of paper I give to my
 1. [Periodic Table](https://sciencenotes.org/wp-content/uploads/2019/01/PeriodicTableoftheElements.pdf)
 2. [Intro to Atoms Packet](https://drive.google.com/open?id=1278iEHz4MZ0ZDOvdKJjbocaEpySw71G4) (2-18 - 2-20)
 3. [Ion Isotop Practice](https://drive.google.com/open?id=14RxGAZA3ov40llnJFelhU7GwpOdlyH25) (2-19 & 2-20)
+4. [Making Ice Without a Freezer](https://docs.google.com/document/d/1PTOFDruaYOpI6305l-vPVl5q-EfVComrvIJBHTC6SRo/edit?usp=sharing) (2-24 & 2-25)
+5. [Mixture Separation Challenge](https://docs.google.com/document/d/1b_u0xn9125DBi4rQYeZ4T6kM9fvJZ-Yyv9q3GptVFEE/edit?usp=sharing) (2-26 - 2-28)
 
 ## Dynamic Earth
 
