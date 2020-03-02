@@ -62,11 +62,19 @@ Here you will find all of the slideshows which I have presented in class, sorted
 2. [Intro to Atoms pt 2](https://docs.google.com/presentation/d/1YGhqtYjq6gzDp5SYhQ37ABRxXCqMtDkepCeo2rBC2qc/edit?usp=sharing) (2-19 & 2-20)
 3. [States of Matter](https://docs.google.com/presentation/d/1stq_NwwYoaEDwdLfV1DZmtWLR_mEjKgG6lqyYbKQeME/edit?usp=sharing) (2-19 & 2-20)
 4. [Physical and Chemical Properties](https://docs.google.com/presentation/d/1LHVaINedODBKcdTwKnjKBL-Q4rZ_7brDaZ6ZFRERsf0/edit?usp=sharing) (2-26)
+5. [Conservation of Mass](https://drive.google.com/open?id=1XA_STWyf4BtD7WhjhYD1DDqdH_omp_15eH55ZpsCZiE) (3/9)
+6. [Balancing Chemical Reactions](https://drive.google.com/open?id=1WYQFCq1kZkA9n8NA12KAht7hxrCxO9vUpNQoN3Mo1gU) (3-23)
+7. [Types of Chemical Reactions ](https://drive.google.com/open?id=1tCKOh2ie8oJqz_KxHVMlbyWX06v-GZeZ5gFny1-ESkc)(3-30)
+8. CSI Final Project (4-6 - 4-10)
 
 ## Dynamic Earth
 
-1. 
-
-## Atoms, Elements, & Compounds
-
-1. 
+1. [Plate Tectonics & Convection Currents ](https://drive.google.com/open?id=1YOHkkvARblP6eZldvqs_wUvs6MifcEfHTQu5ykZpxsM)(4-27)
+2. Types of Plate Boundaries (4-28)
+3. Geologic History & Events (5-4)
+4. [Stratlogical Concepts](https://drive.google.com/open?id=1L668OJWDJ3EDt_lOi4UVurmZGedeE5nCab_sY9_AJA0) (5-5)
+5. Fossil Notes & Mineral Replacement (5-8)
+6. Earthquakes & Types of Waves (5-11)
+7. [Epicenter Distance](https://drive.google.com/open?id=1jaSScCRYUJN1ZNXC1tDaxeTtJH92HgPn_txMHs-tgtY) (5-12)
+8. [Epicenter Triangulation ](https://drive.google.com/open?id=1xyMh0mTDRaEK0yKopQdCtDad7r2CJPTQ98VFYL7CCzk)(5-13 & 5-14)
+9. [Radioactive Dating](https://drive.google.com/open?id=1375T08O9KbwEP5TfI_vQ5EIKaBd-a-K_hZJi-NSRzsw) (5-15)
