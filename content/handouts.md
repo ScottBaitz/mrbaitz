@@ -82,17 +82,19 @@ Here you can find every handout, worksheet, lab, and piece of paper I give to my
 
 ## Chemistry & Forensics
 
-1. [Periodic Table](https://sciencenotes.org/wp-content/uploads/2019/01/PeriodicTableoftheElements.pdf)
-2. [Intro to Atoms Packet](https://drive.google.com/open?id=1278iEHz4MZ0ZDOvdKJjbocaEpySw71G4) (2-18 - 2-20)
-3. [Ion Isotop Practice](https://drive.google.com/open?id=14RxGAZA3ov40llnJFelhU7GwpOdlyH25) (2-19 & 2-20)
-4. [Making Ice Without a Freezer](https://docs.google.com/document/d/1PTOFDruaYOpI6305l-vPVl5q-EfVComrvIJBHTC6SRo/edit?usp=sharing) (2-24 & 2-25)
-5. [Mixture Separation Challenge](https://docs.google.com/document/d/1b_u0xn9125DBi4rQYeZ4T6kM9fvJZ-Yyv9q3GptVFEE/edit?usp=sharing) (2-26 - 2-28)
-6. [History of the Atom Poster ](https://docs.google.com/document/d/1VJJJ-Xi5wwgtHrBtcfo4rhv2zh9B02DRknCQEu6GF2Y/edit?usp=sharing)(3-2 - 3-6)
+ 1. [Periodic Table](https://sciencenotes.org/wp-content/uploads/2019/01/PeriodicTableoftheElements.pdf)
+ 2. [Intro to Atoms Packet](https://drive.google.com/open?id=1278iEHz4MZ0ZDOvdKJjbocaEpySw71G4) (2-18 - 2-20)
+ 3. [Ion Isotop Practice](https://drive.google.com/open?id=14RxGAZA3ov40llnJFelhU7GwpOdlyH25) (2-19 & 2-20)
+ 4. [Making Ice Without a Freezer](https://docs.google.com/document/d/1PTOFDruaYOpI6305l-vPVl5q-EfVComrvIJBHTC6SRo/edit?usp=sharing) (2-24 & 2-25)
+ 5. [Mixture Separation Challenge](https://docs.google.com/document/d/1b_u0xn9125DBi4rQYeZ4T6kM9fvJZ-Yyv9q3GptVFEE/edit?usp=sharing) (2-26 - 2-28)
+ 6. [History of the Atom Poster ](https://docs.google.com/document/d/1VJJJ-Xi5wwgtHrBtcfo4rhv2zh9B02DRknCQEu6GF2Y/edit?usp=sharing)(3-2 - 3-6)
+ 7. [Conservation of Mass](https://drive.google.com/open?id=17DrswdeGaZp7PncT0KFfU5emuK6rDrCF) (3-9)
+ 8. [Conservation of Mass Lab](https://drive.google.com/open?id=1BdpU-BLL8-nhl2sDdeWxKvEcjUqZK4AHTOMOfZ_hXTQ) (3-11 - 3-13)
+ 9. [Balancing Chemical Reactions Webquest ](https://drive.google.com/open?id=1boQBQZRdbPp43y9pj4N84T6f3km5h7OMViTcHvs_CrU)(3-25)
+10. [Types of Chemical Reactions ](https://drive.google.com/open?id=1J8EGS_IAqVLjkLIlB2kZD96vmyH1KdFtAcscjuWDGXE)(4-3)
 
 ## Dynamic Earth
 
-1. 
-
-## Atoms, Elements, & Compounds
-
-1. 
+1. [Plate Tectonics Webquest](https://drive.google.com/open?id=151vMpubLt533rplOw5oiFKTTFBX1lvyuiCpbZSwczCs) (4-29 - 5-1)
+2. [Geologic History Cheat Sheet](https://drive.google.com/open?id=18-yopsCNZL-C0uW6e7MCjP066S11Z3Aj) (5-4)
+3. [Bedrock Correlation](https://drive.google.com/open?id=1dQGlE30AzCJOorC1Vfoditw1i4EtBUBc) (5-6 & 5-7)
