@@ -1,5 +1,5 @@
 baseurl = "https://mrbaitz.com"
-title = 'Mr. Baitz's Class Site<br><h2>Team Torreys Peak<br>Sierra Middle School'
+title = "Mr. Baitz's Class Site<br><h2>Team Torreys Peak<br>Sierra Middle School"
 theme = "dimension"
 languageCode = "en-us"
 defaultContentLanguage = "en"
